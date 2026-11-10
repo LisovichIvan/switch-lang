@@ -1,0 +1,4 @@
+module AtomicSupport {
+    header "AtomicSupport.h"
+    export *
+}

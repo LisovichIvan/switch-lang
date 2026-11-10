@@ -1,0 +1,4 @@
+/.tools/
+/target/
+/dist/
+.DS_Store
